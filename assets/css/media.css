@@ -1,0 +1,74 @@
+@media screen and (max-width: 640px) {
+    .container {
+        width: auto;
+    }
+    a#logo, nav, .auth-image {
+        width: 100%;
+    }
+    .sidebar {
+        max-width: 100%;
+    }
+    #main-container {
+        padding-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .main-section {
+        margin-bottom: 18px;
+    }
+    #masthead {
+        position: static;
+    }
+    nav a {
+        padding-left: 67px;
+    }
+    /*portfolio.html image*/
+    .work {
+        width: 447px;
+    }
+}
+
+@media screen and (min-width:641px) and (max-width: 768px) {
+    .sidebar {
+        max-width: 100%;
+    }
+    #main-container {
+        padding-top: 0px;
+        padding-left: 45px;
+    }
+    .container {
+        padding-left: 45px;
+        padding-right: 43px;
+    }
+    #masthead {
+        position: static;
+    }
+    /*******portfolio.html image**********/
+    .work {
+        width: 260px;
+        margin: 3px 5px 15px;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width: 980px) {
+    #masthead {
+        position: static;
+    }
+    #main-container {
+        padding-top: 0px;
+    }
+    .container {
+        max-width: 800px;
+    }
+    .main-section {
+        width: 487px;
+    }
+    .auth-image {
+        width: 425px;
+    }
+    /**********portfolio.html file image****/
+    .work {
+        width: 425px;
+        margin-top: 0px;
+    }
+}
