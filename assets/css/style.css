@@ -150,6 +150,10 @@ h3, .sidebar h2 {
   margin-right: 0;
 }
 
+#connect a{
+  text-decoration:none; 
+}
+
 /* main */
 
 #main-container {
