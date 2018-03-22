@@ -149,7 +149,7 @@ h3, .sidebar h2 {
 .social:last-child {
   margin-right: 0;
 }
-
+/* fix for a small line that appered between social links*/
 #connect a{
   text-decoration:none; 
 }
