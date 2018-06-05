@@ -1,2 +1,3 @@
 # Responsive-Portfolio
-UACodingBootcamp-Assignment 2(Part 2)-Using Media queries in Basic-portfolio
+
+This is a Basic Portfolio App built using HTML,CSS,Bootstrap and Media queries.
